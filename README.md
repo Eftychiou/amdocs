@@ -1,14 +1,14 @@
 # Panel Output Applicaton Solution
 
-## Note
 
-Even though it wasn't nessecary to build an api route for the panels data,
-i used the build-in feature of nextJs of serverless api routes for an http request.
+## Install Modules
 
-## Build
+On terminal change to root directory of the project and type "npm install"
 
-Enter (npm run dev) to build/run the project on dev mode. Once builded, check on your terminal for the port used(3000 is the default if not used) open the browser and type http://localhost:port.
+## Run/build Project on dev/mode
 
-## Code
+On terminal change to root directory of the project and type "npm start"
 
-Since this is a nextjs project you will find the requested code under pages>index.jsx
+## On your browser 
+
+Navigate to http://loacalhost/3000 to view the app
